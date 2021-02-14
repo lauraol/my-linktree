@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.card{
+    position: absolute;
+    z-index: 10;
+    left: 40%;
+    display: flex;
+    justify-content: center;
+    margin-top: 7%;
+}
+
+main.content{
+    background-color: #FFFFFF;
+    width: 450px;
+    height: 700px;
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+div.my-informations img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-left: 20%;
+    margin-bottom: 5%;
+}
+
+div.my-informations h1{
+    font-family: 'Poppins', sans-serif;
+    color: #120c56;
+    font-size: 40px;
+    text-align: center;
+}
+
+div.my-informations h3{
+    font-size: 22px;
+}
+
+div.my-informations h3,
+div.my-informations p{
+    font-family: 'Poppins', sans-serif;
+    color: #353839;
+    text-align: center;
+}
+
+div.click-here{
+    width: 300px;
+    height: 80px;
+    background-color: #22c1c3;
+    border-radius: 50px;
+    margin-top: 5%;
+}
+
+div.click-here p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.redirect-github,
+.redirect-linkdin,
+.redirect-telegram{
+    display: flex;
+    
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+img.icon{
+    width: 60px;
+    height: 60px;
+    margin-left: 70px;
+}
