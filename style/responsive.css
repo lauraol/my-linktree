@@ -14,15 +14,16 @@
     main.content{
         background-color: #FFFFFF;
         width: 350px;
-        height: 525px;
+        height: 535px;
     }
 
     div.my-informations img{
         width: 150px;
         height: 150px;
         border-radius: 50%;
+        margin-top: 10px;
         margin-left: 25%;
-        margin-bottom: 5%;
+        margin-bottom: 10px;
     }
 
     div.click-here{
