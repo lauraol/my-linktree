@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 
-.card{
-    position: absolute;
-    z-index: 10;
-    left: 40%;
+div.align-card{
     display: flex;
     justify-content: center;
-    margin-top: 7%;
+    align-items: center;
+}
+
+.card{
+    z-index: 2;
+    margin-top: 5%;
 }
 
 main.content{
@@ -14,7 +16,6 @@ main.content{
     width: 450px;
     height: 700px;
     border-radius: 10px;
-
     display: flex;
     flex-direction: column;
     align-items: center;
