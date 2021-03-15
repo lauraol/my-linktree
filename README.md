@@ -1,4 +1,4 @@
-# Linktree personalizado
+![miniatura-linktree](https://user-images.githubusercontent.com/57760301/107883736-63685680-6ecf-11eb-887c-9825be6c9c7e.PNG)
 
 ## 🔖 Sobre
 
@@ -8,9 +8,3 @@ Linktree é um serviço online para Instagram que permite divulgar os links de t
 
 - HTML5
 - CSS3
-
-## 👀 Demo
-
-<p align=center>
-  <img src="https://media.giphy.com/media/vC5a1y1GeiH5bUf4lW/giphy.gif">
-</p>
