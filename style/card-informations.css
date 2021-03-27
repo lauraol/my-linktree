@@ -1,5 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 
+html{
+    scroll-behavior: smooth;
+}
+  
+body::-webkit-scrollbar {
+    width: 12px
+} 
+  
+body::-webkit-scrollbar-thumb {   
+  background-color: #C4C4C4;   
+  border-radius: 10px;
+}
+
 div.align-card{
     display: flex;
     justify-content: center;
@@ -14,7 +27,7 @@ div.align-card{
 main.content{
     background-color: #FFFFFF;
     width: 450px;
-    height: 700px;
+    height: 1200px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -65,11 +78,8 @@ div.click-here p{
     margin-left: 30px;
 }
 
-.redirect-github,
-.redirect-linkdin,
-.redirect-telegram{
+.redirect-social-media{
     display: flex;
-    
     align-items: center;
 }
 
@@ -80,5 +90,22 @@ a{
 img.icon{
     width: 60px;
     height: 60px;
-    margin-left: 70px;
+    margin-left: 30px;
+}
+
+p.subtitles{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #353839;
+    text-align: center;
+    margin-top: 40px;
+}
+
+div.no-icon p{
+    margin-left: 0px;
+}
+
+div.no-icon p.align-text{
+    width: 300px;
+    text-align: center;
 }

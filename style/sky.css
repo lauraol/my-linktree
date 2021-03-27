@@ -5,7 +5,7 @@
 
 .container{
     width: 100%;
-    height: 100vh;
+    height: 145vh;
     background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(25,91,133,1) 40%, rgba(23,67,119,1) 50%, rgba(21,44,105,1) 70%, rgba(18,12,86,1) 92%);
 }
 
@@ -154,7 +154,66 @@
     1805px 755px white,
     1825px 900px white,
     1835px 811px white,
-    1820px 600px white;
+    1820px 600px white,
+    1901px 815px white,
+    1915px 1005px white,
+    1985px 185px white,
+    1940px 222px white,
+    1928px 255px white,
+    2000px 440px white,
+    2100px 255px white,
+    2110px 453px white,
+    2120px 511px white,
+    2130px 500px white,
+    2140px 800px white,
+    2145px 610px white,
+    2150px 799px white,
+    2155px 874px white,
+    2160px 562px white,
+    2170px 777px white,
+    2175px 900px white,
+    2180px 885px white,
+    2185px 710px white,
+    2190px 802px white,
+    2195px 604px white,
+    2200px 800px white,
+    2205px 755px white,
+    2010px 900px white,
+    2015px 811px white,
+    2020px 600px white,
+
+    2300px 800px white,
+    2335px 755px white,
+    2340px 900px white,
+    2345px 811px white,
+    2350px 600px white,
+    2355px 815px white,
+    2360px 1005px white,
+    2365px 185px white,
+    2370px 222px white,
+    2375px 255px white,
+    2380px 440px white,
+    2385px 255px white,
+    2390px 453px white,
+    2395px 511px white,
+    2400px 500px white,
+    2420px 800px white,
+    2425px 610px white,
+    2440px 799px white,
+    2445px 874px white,
+    2447px 562px white,
+    2500px 777px white,
+    2530px 900px white,
+    2535px 885px white,
+    2540px 710px white,
+    2545px 802px white,
+    2560px 604px white,
+    2565px 800px white,
+    2570px 755px white,
+    2600px 900px white,
+    2601px 811px white,
+    2620px 600px white;
+    
 
     animation: anim-stars 20s linear infinite;
 }
@@ -622,7 +681,47 @@
     1805px 755px white,
     1825px 900px white,
     1835px 811px white,
-    1820px 600px white;
+    1820px 600px white,
+    1820px 1870px white,
+    102px 1777px white,
+    130px 1414px white,
+    305px 1690px white,
+
+
+    300px 1332px white,
+    333px 1741px white,
+    880px 1320px white,
+    200px 1201px white,
+    430px 1035px white,
+    579px 1140px white,
+    500px 1185px white,
+    585px 1935px white,
+    1300px 1870px white,
+    1380px 1705px white,
+    1820px 1122px white,
+
+    250px 1999px white,
+    258px 1305px white,
+    152px 1852px white,
+    328px 1222px white,
+    425px 1030px white,
+    529px 1040px white,
+    587px 1700px white,
+    581px 1832px white,
+    1820px 1410px white,
+    1805px 1775px white,
+    1825px 1111px white,
+    1835px 1222px white,
+    1820px 1333px white,
+    1802px 1200px white,
+    2000px 1205px white,
+    1852px 1300px white,
+    1835px 1333px white,
+    1931px 2010px white,
+    1999px 1447px white,
+    2300px 1502px white,
+    2301px 1530px white;
+
 }
 
 @keyframes anim-stars {
@@ -630,6 +729,6 @@
         transform: translateY(0px);
     }
     to {
-        transform: translateY(-100vh);
+        transform: translateY(-95vh);
     }
 }
