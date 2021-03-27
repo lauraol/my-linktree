@@ -27,7 +27,8 @@ div.align-card{
 main.content{
     background-color: #FFFFFF;
     width: 450px;
-    height: 1200px;
+    height: 1000px;
+    /*height: 1200px;*/
     border-radius: 10px;
     display: flex;
     flex-direction: column;
