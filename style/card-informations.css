@@ -27,8 +27,7 @@ div.align-card{
 main.content{
     background-color: #FFFFFF;
     width: 450px;
-    height: 1000px;
-    /*height: 1200px;*/
+    height: 1200px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -91,7 +90,7 @@ a{
 img.icon{
     width: 60px;
     height: 60px;
-    margin-left: 30px;
+    margin-left: 50px;
 }
 
 p.subtitles{
